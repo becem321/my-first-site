@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import avatar from "./images/avatar.png";
+import avatar from "./images/avatar.jpg";
 import Info from "./components/info";
 import "./info.css";
 import Svg from './components/svg'
